@@ -1,0 +1,3 @@
+[submodule "vue-src"]
+	path = vue-src
+	url = ./vue-src
